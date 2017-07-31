@@ -2,6 +2,6 @@
 its simple project
 <html>
 <body>
-<h1>its very simple project</h2>
+<h1><font color="red">its very simple project</h2>
 </body>
 </html>
